@@ -1,0 +1,24 @@
+.infor{
+    text-align: center;
+    font-style: oblique;
+    font-size: larger;
+    background-color: palegoldenrod;
+}
+.tel{
+    font-size: medium;
+    color: blue;
+    text-align: left;
+}
+.location{
+    text-align: left;
+    font-size: medium;
+    color: blue;
+}
+.email{
+    font-size: medium;
+    text-align:left;
+    color:blue;
+}
+body{
+    background-color: powderblue;
+}

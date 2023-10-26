@@ -1,0 +1,16 @@
+body{
+    background-image: url(../images/fork.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.heading1{
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center
+}
+.red{
+    font-family: 'Times New Roman';
+    background-color: orange;
+    font-size: large;
+}

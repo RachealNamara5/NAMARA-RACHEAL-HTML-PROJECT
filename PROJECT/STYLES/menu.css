@@ -1,0 +1,22 @@
+.menu{
+    background-color: orange;
+    text-align: center;
+    font-family:  'Lucida Sans Regular';
+}
+body{
+    background-color: green
+}
+.one{
+    display: inline-block;
+}
+
+.two{
+    display: inline-block;
+}
+
+.three{
+    display: inline-block;
+}
+.four{
+    display: inline-block;
+}

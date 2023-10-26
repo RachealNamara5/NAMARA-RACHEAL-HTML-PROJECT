@@ -1,0 +1,31 @@
+.header{
+    font-size: xx-large;
+    text-align: center;
+    background-color: peru;
+}
+
+.here{
+    font-family: Haettenschweiler;
+    text-align: center;
+    font-size: large;
+}
+.come{
+    font-family: Haettenschweiler;
+    text-align: center;
+    font-size: large;
+}
+.are{
+    font-family: Haettenschweiler;
+text-align: center;
+font-size: large;
+}
+.please{
+     font-family: Haettenschweiler;
+    text-align: center;
+    font-size: large;
+}
+body{
+    background-image: url(../images/fork\ on\ plate.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+}
